@@ -1,2 +1,3 @@
 # git-playground
-여러가지 git 실습
+
+깃으로 놀아보자!
